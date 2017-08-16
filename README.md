@@ -64,7 +64,7 @@ This will be the HTML you will put inside your <head> tag
 <meta name="msapplication-config" content="/path/to/ieconfig.xml" />
 ```
 
-And this will be your **ieconfig.xml** for Windows 10 Start Menu Tiles (change image paths)
+And this will be your **ieconfig.xml** for Windows 10 Start Menu Tiles (change image paths and TileColor)
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
