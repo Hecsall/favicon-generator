@@ -7,8 +7,8 @@ For good results, the original image should be a perfect square, 600x600 px and 
 
 ## Dependency
 This script requires Pillow and PILkit to manage the images.
-pip install Pillow
-pip install pilkit
+* pip install Pillow
+* pip install pilkit
 
 
 ## Usage
