@@ -33,3 +33,7 @@ Examples:
 ## Nice to know
 Using the **-o** argument, will eventually remove leading "**/**" to prevent the script to write in your root directory for security purposes.
 You will still be able to write paths like "**-o ../someFolder**".
+
+
+#### Some credits
+Favicons sizes took from the [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) 
