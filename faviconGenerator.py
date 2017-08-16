@@ -14,7 +14,7 @@ def faviconGenerator(originalImage, directory):
 
 	sizes = [
 	#
-	#	FileName			LogoSize		BoxSize
+	#	FileName		LogoSize		BoxSize
 	#
 		["favicon-32",		[32,32],		[32,32]],
 		["favicon-57",		[57,57],		[57,57]],
